@@ -119,6 +119,8 @@ https://github.com/zzhouhe/PG1903
 
 https://github.com/MeeSong/MBox
 
+https://github.com/jonomango/hv
+
 https://github.com/MeeSong/lwIP
 
 https://github.com/SinaKarvandi/Hypervisor-From-Scratch
@@ -126,5 +128,14 @@ https://github.com/SinaKarvandi/Hypervisor-From-Scratch
 https://git.back.engineering/gmh5225/kli-ex
 
 https://github.com/AdamOron/PatchGuardBypass
+
+https://github.com/9176324/Daat
+
+https://github.com/Air14/HyperHide
+
+https://github.com/HyperDbg/HyperDbg
+
+https://github.com/Splitx12/imxyviMapper
+
 
 
